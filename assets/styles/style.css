@@ -1,0 +1,36 @@
+/*==========general==================*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*=============================auth===========================*/
+
+.auth {
+  max-width: 1000px;
+  margin: 10vh auto;
+}
+
+fieldset {
+  width: 70%;
+  margin: 0 auto;
+  padding: 1%;
+}
+
+label {
+  font-weight: 700;
+}
+
+button {
+  background-color: transparent;
+  border: 1px solid gray;
+  padding: 1%;
+  border-radius: 5px;
+  margin-top: 1vh;
+}
+
+[type="submit"] {
+  margin-right: 2%;
+}
